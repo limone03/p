@@ -28,7 +28,7 @@
 			<li>F</li>
 			<li>A</li>
 			<li>C</li>
-			<li>T</li>
+			<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK" crossorigin="anonymous"></script>
 			<li>O</li>
 			<li>R</li>
 			<li>Y</li>
